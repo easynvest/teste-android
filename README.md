@@ -9,7 +9,6 @@ Seu objetivo é criar um app com duas telas, uma que exibe um formulário e outr
 
 ### Telas
 
-(ADICIONAR SCREENSHOT DAS TELAS)
 ![input](./images/input.png)
 ![result](./images/result.png)
 
